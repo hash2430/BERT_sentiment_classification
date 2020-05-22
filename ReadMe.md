@@ -33,6 +33,7 @@ Acc = (True positive + True negative) / No. of test sentences
 | 6   | I **close** the book  | I am **close** to you. | -0.1844           |
 
 3. Learning curve
+
 ![](pretrained_mlm.png)
 ![](pretrained_nsp.png)
 
